@@ -4,7 +4,7 @@
 
 [![smuravye's 42 stats](https://badge.mediaplus.ma/darkblue/smuravye?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/smuravye)
 
-As a proud student at Ecole 42, I'm on a quest through the realms of Python and C, crafting my skills and preparing for greater coding conquests. Every line of code is a step towards mastering the art of software development.
+As a proud student at Ecole 42, I'm on a quest through the realms of C and C++, crafting my skills and preparing for greater coding conquests. Every line of code is a step towards mastering the art of software development.
 
 🔥 **Current Status:** Sailing through the seas of learning, with an eye on the horizon for bigger and more challenging projects.
 
