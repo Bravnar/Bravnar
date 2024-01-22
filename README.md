@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### This is a README, I code, try to at least. Nuff said...
+
 <!--
 **Bravnar/Bravnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
