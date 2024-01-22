@@ -2,7 +2,11 @@
 
 #### This is a README, I code, try to at least. Nuff said...
 
-[![smuravye's 42 stats](https://badge.mediaplus.ma/darkblue/smuravye?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/smuravye?1337Badge=off&UM6P=off" alt="smuravye's 42 stats">
+  </a>
+</p>
 
 <!--
 **Bravnar/Bravnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
