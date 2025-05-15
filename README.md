@@ -1,4 +1,4 @@
-### Hi there, I'm Bravnar, I also go by Stan, but that's a Saga for a different time👋
+### Hi there, I'm Stan, I also go by Bravnar, but that's a Saga for a different time👋
 
 #### Just a Viking Programmer from far North.
 
