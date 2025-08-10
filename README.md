@@ -7,7 +7,7 @@
 
 #### 💡 About Me
 I’m a software developer hailing from **42 Lausanne**, with a professional background in education technology, business development, and client-facing roles.  
-Currently, I work as an **LMS Coordinator at EHL**, where I specialize in Moodle support and coordination, optimizing online learning environments for a global audience.  
+Currently, I work as an **LMS Coordinator at EHL Hospitality Business School**, where I specialize in Moodle support and coordination, optimizing online learning environments for a global audience.  
 
 My development approach leans strongly toward **object-oriented programming**, applying structured design principles to ensure projects remain clean, scalable, and maintainable.
 
