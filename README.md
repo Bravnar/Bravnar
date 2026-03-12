@@ -11,9 +11,17 @@ Currently, I work as an **LMS Coordinator at EHL Hospitality Business School**, 
 
 My development approach leans strongly toward **object-oriented programming**, applying structured design principles to ensure projects remain clean, scalable, and maintainable.
 
-- 🔥 **Current Focus:** Learning Java, deepening my skills in Python, and exploring backend development for personal projects.  
-- 🌍 **Next Goals:** Build a portfolio website, strengthen my stack further, and secure a role in the tech industry.  
-- ⚔️ **Philosophy:** Write code that is clean, efficient, and battle-ready.
+- **Current Focus:** Deepening my skills in Python, and exploring backend development for personal projects.  
+- **Next Goals:** Build a portfolio website, strengthen my stack further, and secure a role in the tech industry.  
+- **Philosophy:** Write code that is clean, efficient, and battle-ready.
+
+---
+
+#### 💻 Some of my Work
+
+- [📁 42 Lausanne Projects](https://github.com/stars/Bravnar/lists/42-lausanne-projects)
+- [📁 LMS Moodle Projects](https://github.com/stars/Bravnar/lists/%E2%93%9C-lms-moodle-projects)
+- [📁 BootDev Projects](https://github.com/stars/Bravnar/lists/boot-dev-projects)
 
 ---
 
@@ -28,6 +36,7 @@ My development approach leans strongly toward **object-oriented programming**, a
 
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-3F7CD1?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
