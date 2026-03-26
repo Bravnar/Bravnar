@@ -1,4 +1,4 @@
-### Hi there, I'm Stan 👋  
+### Hi there, I'm Stan  
 *(Some also call me Bravnar — but that’s a saga for another time.)*
 
 [![smuravye's 42 stats](https://badge.mediaplus.ma/darkblue/smuravye?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/smuravye)
